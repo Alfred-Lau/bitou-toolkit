@@ -20,8 +20,12 @@
   "contributes": {
     "snippets": [
       {
-        "language": "typescriptreact",
+        "language": "typescriptreact, javascriptreact, typescript, javascript",
         "path": "./snippets/next.json"
+      },
+      {
+        "language": "typescriptreact, javascriptreact, typescript, javascript",
+        "path": "./snippets/react-mediaquery-entry.json"
       }
     ],
     "commands": [

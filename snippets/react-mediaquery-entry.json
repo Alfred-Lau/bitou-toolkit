@@ -1,0 +1,13 @@
+{
+  "Print to console": {
+    "scope": "javascript,typescript,typescriptreact,javascriptreact",
+    "prefix": "bitou-react",
+    "body": [
+      "'import React from 'react';'",
+      "import MediaQuery from 'react-responsive';",
+      "import { MOBILE_WIDTH } from '@/constant';",
+      "import SeoComponent from '@/component/SeoHemlet';"
+    ],
+    "description": "output a next client page"
+  }
+}

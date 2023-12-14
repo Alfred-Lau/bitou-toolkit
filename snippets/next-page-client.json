@@ -1,0 +1,8 @@
+{
+  "Print to console": {
+    "scope": "javascript,typescript,typescriptreact,javascriptreact",
+    "prefix": "bitou-next",
+    "body": ["'use client;'", "$2"],
+    "description": "output a next client page"
+  }
+}
