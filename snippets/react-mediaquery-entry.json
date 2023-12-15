@@ -1,5 +1,5 @@
 {
-  "Print to console": {
+  "create a media query component": {
     "scope": "javascript,typescript,typescriptreact,javascriptreact",
     "prefix": "bitou-react",
     "body": [

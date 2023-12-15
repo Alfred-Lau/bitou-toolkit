@@ -21,7 +21,7 @@
     "snippets": [
       {
         "language": "typescriptreact, javascriptreact, typescript, javascript",
-        "path": "./snippets/next.json"
+        "path": "./snippets/next-page-client.json"
       },
       {
         "language": "typescriptreact, javascriptreact, typescript, javascript",
