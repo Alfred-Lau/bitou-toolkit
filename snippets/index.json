@@ -1,4 +1,10 @@
 {
+  "create a next client page": {
+    "scope": "javascript,typescript,typescriptreact,javascriptreact",
+    "prefix": "bitou-next",
+    "body": ["'use client;'", "$2"],
+    "description": "output a next client page"
+  },
   "create a media query component": {
     "scope": "javascript,typescript,typescriptreact,javascriptreact",
     "prefix": "bitou-react",

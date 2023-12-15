@@ -2,7 +2,7 @@
   "name": "bitou-toolkit",
   "displayName": "bitou-toolkit",
   "description": "Bitou devops toolkit",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.68.0"
   },
@@ -21,11 +21,7 @@
     "snippets": [
       {
         "language": "typescriptreact, javascriptreact, typescript, javascript",
-        "path": "./snippets/next-page-client.json"
-      },
-      {
-        "language": "typescriptreact, javascriptreact, typescript, javascript",
-        "path": "./snippets/react-mediaquery-entry.json"
+        "path": "./snippets/index.json"
       }
     ],
     "commands": [
