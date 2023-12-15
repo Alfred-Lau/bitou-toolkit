@@ -2,17 +2,15 @@
   "name": "bitou-toolkit",
   "displayName": "bitou-toolkit",
   "description": "Bitou devops toolkit",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "engines": {
-    "vscode": "^1.68.0"
+    "vscode": "^1.85.0"
   },
   "categories": [
     "Other",
     "Snippets"
   ],
-  "activationEvents": [
-    "onView:nodeDependencies"
-  ],
+  "activationEvents": [],
   "main": "./out/extension.js",
   "workbench.colorCustomizations": {
     "titleBar.activeBackground": "#ff0000"
@@ -21,7 +19,7 @@
     "snippets": [
       {
         "language": "typescriptreact, javascriptreact, typescript, javascript",
-        "path": "./snippets/index.json"
+        "path": "./snippets.json"
       }
     ],
     "commands": [
