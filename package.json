@@ -80,7 +80,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alfred-Lau/bitou-emmet.git"
+    "url": "git+https://github.com/Alfred-Lau/bitou-toolkit.git"
   },
   "publisher": "alfredlau"
 }
