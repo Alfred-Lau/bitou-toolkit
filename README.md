@@ -70,3 +70,5 @@ Ensure that you've read through the extensions guidelines and follow the best pr
 **Enjoy!**
 
 需要进行全新的功能设计
+
+- 支持一些插件命令的集成
